@@ -2,7 +2,7 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-I am an 18-year-old Freshman at the University of California, San Diego. I am extremely passionate about the world of AI applications. I'm currently researching and working on delivering high-quality training data to ML algorithms for self-driving cars, mapping, AR/VR, robotics, etc.
+I am an Sophomore at the University of California, San Diego. I am extremely passionate about the world of AI applications. I'm currently researching and working on delivering high-quality training data to ML algorithms for self-driving cars, mapping, AR/VR, robotics, etc.
 
 
   
