@@ -25,7 +25,7 @@ I am an undergrad studying Computer Science at UC San Diego. My interests mainly
 <br>
 
 <p>
-<a><img alt="TanayPatil Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanpatil&bg_color=0D1117&color=ced4da&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="TanayPatil Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanpatil&bg_color=0D1117&color=ced4da&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
 <br>
 <p align="center">
