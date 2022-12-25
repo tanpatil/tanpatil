@@ -20,7 +20,7 @@ I am an undergrad studying Computer Science at UC San Diego. My interests mainly
 </div>
 
 <br>
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanpatil&layout=compact&show_icons=true&bg_color=0d1117,0d1117,0d1117&title_color=ced4da&text_color=ced4da"  align="center" height="200" width="100%"></a>
+ <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punnkam&layout=compact&show_icons=true&bg_color=0d1117,0d1117,0d1117&title_color=ced4da&text_color=ced4da"  align="center" height="200" width="100%"></a>
 
 <br>
 
