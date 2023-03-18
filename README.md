@@ -20,7 +20,7 @@ I am an undergrad studying Computer Science at UC San Diego. My interests mainly
 </div>
 
 <br>
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punnkam&layout=compact&show_icons=true&bg_color=0d1117,0d1117,0d1117&title_color=ced4da&text_color=ced4da"  align="center" height="200" width="100%"></a>
+<!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punnkam&layout=compact&show_icons=true&bg_color=0d1117,0d1117,0d1117&title_color=ced4da&text_color=ced4da"  align="center" height="200" width="100%"></a> -->
 
 <br>
 
@@ -30,10 +30,10 @@ I am an undergrad studying Computer Science at UC San Diego. My interests mainly
 <br>
 <p align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/tanaypa/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
-    <a href="mailto:tanay@tanaypatil.tech" alt="Contact me"><img src="readme/mail-fill.svg"></a>
-    <a href="https://tanaypatil.tech" alt="My site"><img src="readme/external-link-line.svg"></a>
-    <a href="https://twitter.com/tanaypatil2003" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/tanpatil/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
+    <a href="mailto:tanay@tanpatil.tech" alt="Contact me"><img src="readme/mail-fill.svg"></a>
+    <a href="https://tanpatil.tech" alt="My site"><img src="readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
   </p>
 
 ![snake gif](https://github.com/tanpatil/tanpatil/blob/output/github-contribution-grid-snake.svg)
