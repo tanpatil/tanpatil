@@ -5,7 +5,7 @@
 I am an undergrad studying Computer Science at UC San Diego. My interests mainly lie in DeFi and AI applications. I am currently researching various ML approaches to address security and reliability issues in the DeFi space.
 
   
-# Experience:
+<!-- # Experience:
 <div>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/></a>
@@ -17,7 +17,7 @@ I am an undergrad studying Computer Science at UC San Diego. My interests mainly
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GoogleCloud"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="VueJS"/></a>
-</div>
+</div> -->
 
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punnkam&layout=compact&show_icons=true&bg_color=0d1117,0d1117,0d1117&title_color=ced4da&text_color=ced4da"  align="center" height="200" width="100%"></a> -->
