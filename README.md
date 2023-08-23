@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hey!)](https://git.io/typing-svg)
 
-<a href="#"><img width="28%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
+<a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
 Concentration in computer science and math with interests in DeFi and AI. Currently SWE @ Google, and researching various ML approaches to address security issues in the DeFi.
   
@@ -23,9 +23,9 @@ Concentration in computer science and math with interests in DeFi and AI. Curren
 
 <br>
 
-<p>
+<!-- <p>
 <a><img alt="TanayPatil Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanpatil&bg_color=0D1117&color=ced4da&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
-</p>
+</p> -->
 <br>
 <p align="center">
   <p align="center">
@@ -35,7 +35,7 @@ Concentration in computer science and math with interests in DeFi and AI. Curren
     <a href="https://twitter.com/" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
   </p>
 
-![snake gif](https://github.com/tanpatil/tanpatil/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/tanpatil/tanpatil/output/github-contribution-grid-snake.svg)
 
 <!--
 **tanpatil/tanpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
