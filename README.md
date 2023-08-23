@@ -2,8 +2,7 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-I am an undergrad studying Computer Science at UC San Diego. My interests mainly lie in DeFi and AI applications. I am currently researching various ML approaches to address security and reliability issues in the DeFi space.
-
+Concentration in computer science and math with interests in DeFi and AI. Currently SWE @ Google, and researching various ML approaches to address security issues in the DeFi.
   
 <!-- # Experience:
 <div>
