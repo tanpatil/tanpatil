@@ -2,7 +2,7 @@
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-Concentration in computer science and math with interests in DeFi and AI. Currently SWE @ Google, and researching various ML approaches to address security issues in the DeFi.
+Concentration in computer science and math with interests in DeFi and AI. Currently SWE @ Google, and researching various ML approaches to address security issues in DeFi.
   
 <!-- # Experience:
 <div>
