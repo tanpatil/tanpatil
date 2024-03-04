@@ -31,7 +31,7 @@ Concentration in computer science and math with interests in DeFi and AI. Curren
   <p align="center">
     <a href="https://www.linkedin.com/in/tanpatil/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
     <a href="mailto:tanay@tanpatil.tech" alt="Contact me"><img src="readme/mail-fill.svg"></a>
-    <a href="https://tanpatil.tech" alt="My site"><img src="readme/external-link-line.svg"></a>
+    <a href="https://tanpatil.github.io" alt="My site"><img src="readme/external-link-line.svg"></a>
     <a href="https://twitter.com/" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
   </p>
 
